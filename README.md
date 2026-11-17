@@ -70,12 +70,16 @@ Senior QA Automation Engineer | API, Performance & Security Testing | AI Testing
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/saisanthoshpothamshetty/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<a href="https://saisanthosh17.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-E85D3A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-
+ 
+<a href="https://www.linkedin.com/in/saisanthoshpothamshetty/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+ 
 <a href="mailto:santhoshpothamshetty@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
